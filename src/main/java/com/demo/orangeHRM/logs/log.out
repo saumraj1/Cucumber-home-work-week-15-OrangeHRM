@@ -1,0 +1,221 @@
+2021-12-11 16:12:447 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-11 16:12:494 INFO  HomePage :38 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (113bca0e3e9c2b7e7d478a7a04f2acc7)] -> link text: Log in]
+2021-12-11 16:12:636 INFO  LoginPage :45 -  Getting Welcome message from :[[ChromeDriver: chrome on WINDOWS (113bca0e3e9c2b7e7d478a7a04f2acc7)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-11 18:12:385 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-11 18:12:170 INFO  HomePage :38 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c51756730c6ceda198d38ab793677bb4)] -> link text: Log in]
+2021-12-11 18:12:254 INFO  LoginPage :45 -  Getting Welcome message from :[[ChromeDriver: chrome on WINDOWS (c51756730c6ceda198d38ab793677bb4)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-11 18:12:66 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-11 18:12:662 INFO  HomePage :38 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ce1350eb063e2f365a5914ce920f83f4)] -> link text: Log in]
+2021-12-11 18:12:754 INFO  LoginPage :45 -  Getting Welcome message from :[[ChromeDriver: chrome on WINDOWS (ce1350eb063e2f365a5914ce920f83f4)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-11 23:12:633 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-11 23:12:755 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-11 23:12:777 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 00:12:542 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 00:12:292 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 00:12:344 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 00:12:636 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 12:12:747 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 12:12:673 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 13:12:119 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 13:12:109 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 13:12:176 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 13:12:198 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 13:12:781 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 13:12:913 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 13:12:716 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 13:12:252 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 13:12:357 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 13:12:476 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 13:12:875 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 13:12:862 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 13:12:265 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 13:12:480 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 13:12:266 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 13:12:607 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 13:12:488 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 13:12:337 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 14:12:873 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 14:12:695 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 14:12:348 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 14:12:885 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 14:12:190 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 14:12:402 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 14:12:187 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 15:12:295 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 15:12:579 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 15:12:798 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 15:12:824 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 15:12:950 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 15:12:88 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 16:12:239 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 16:12:90 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 16:12:806 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 16:12:736 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 16:12:767 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 16:12:908 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:573 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:943 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:880 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:709 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:905 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:917 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:367 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:181 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:447 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:424 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:893 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:431 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:02 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:332 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:363 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:562 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:690 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:182 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:126 INFO  ViewSystemUsersPage :112 - Getting confirmation text to confirm amount to be Withdrawn successfully [[ChromeDriver: chrome on WINDOWS (9e54aee0f7d2d1a65ffb56c6901c9a39)] -> xpath: //td[contains(text(),'No Records Found')]]
+2021-12-12 17:12:478 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:271 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:194 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:285 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 17:12:217 INFO  ViewSystemUsersPage :112 - Getting confirmation text to confirm amount to be Withdrawn successfully [[ChromeDriver: chrome on WINDOWS (9cfb174aca28620481335725fc3518e6)] -> xpath: //td[contains(text(),'No Records Found')]]
+2021-12-12 21:12:863 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 21:12:661 INFO  AddUserPage :40 - add admin[[ChromeDriver: chrome on WINDOWS (317f8ad29f19dfc5b8a46b2e625e0ce9)] -> id: menu_admin_viewAdminModule]
+2021-12-12 21:12:677 INFO  AddUserPage :45 - click on Add Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnAdd']'
+2021-12-12 21:12:293 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 21:12:242 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 21:12:868 INFO  AddUserPage :40 - add admin[[ChromeDriver: chrome on WINDOWS (1391fd1c13a429ac65250e2fd89af490)] -> id: menu_admin_viewAdminModule]
+2021-12-12 21:12:714 INFO  AddUserPage :45 - click on Add Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnAdd']'
+2021-12-12 21:12:769 INFO  ViewSystemUsersPage :55 - verify Successfully Saved [[ChromeDriver: chrome on WINDOWS (1391fd1c13a429ac65250e2fd89af490)] -> id: successBodyEdit]
+2021-12-12 21:12:859 INFO  ViewSystemUsersPage :55 - verify Successfully Saved [[ChromeDriver: chrome on WINDOWS (1391fd1c13a429ac65250e2fd89af490)] -> id: successBodyEdit]
+2021-12-12 21:12:181 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 21:12:191 INFO  AddUserPage :40 - add admin[[ChromeDriver: chrome on WINDOWS (0604f3a26907fa1b8845b03686a7c75f)] -> id: menu_admin_viewAdminModule]
+2021-12-12 21:12:488 INFO  ViewSystemUsersPage :61 - send username [[ChromeDriver: chrome on WINDOWS (0604f3a26907fa1b8845b03686a7c75f)] -> xpath: //input[@id='searchSystemUser_userName']]
+2021-12-12 21:12:826 INFO  ViewSystemUsersPage :70 - select user roll[[ChromeDriver: chrome on WINDOWS (0604f3a26907fa1b8845b03686a7c75f)] -> xpath: //select[@id='searchSystemUser_userType']]
+2021-12-12 21:12:118 INFO  ViewSystemUsersPage :65 - send employee name [[ChromeDriver: chrome on WINDOWS (0604f3a26907fa1b8845b03686a7c75f)] -> id: searchSystemUser_employeeName_empName]
+2021-12-12 21:12:429 INFO  ViewSystemUsersPage :76 - select status[[ChromeDriver: chrome on WINDOWS (0604f3a26907fa1b8845b03686a7c75f)] -> xpath: //select[@id='searchSystemUser_status']]
+2021-12-12 21:12:215 INFO  ViewSystemUsersPage :81 - click on search button [[ChromeDriver: chrome on WINDOWS (0604f3a26907fa1b8845b03686a7c75f)] -> xpath: //input[@id='searchBtn']]
+2021-12-12 21:12:746 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 21:12:87 INFO  AddUserPage :40 - add admin[[ChromeDriver: chrome on WINDOWS (99bd864f4a42bf231b8b7e8889e4c677)] -> id: menu_admin_viewAdminModule]
+2021-12-12 21:12:333 INFO  ViewSystemUsersPage :61 - send username [[ChromeDriver: chrome on WINDOWS (99bd864f4a42bf231b8b7e8889e4c677)] -> xpath: //input[@id='searchSystemUser_userName']]
+2021-12-12 21:12:602 INFO  ViewSystemUsersPage :70 - select user roll[[ChromeDriver: chrome on WINDOWS (99bd864f4a42bf231b8b7e8889e4c677)] -> xpath: //select[@id='searchSystemUser_userType']]
+2021-12-12 21:12:869 INFO  ViewSystemUsersPage :65 - send employee name [[ChromeDriver: chrome on WINDOWS (99bd864f4a42bf231b8b7e8889e4c677)] -> id: searchSystemUser_employeeName_empName]
+2021-12-12 21:12:126 INFO  ViewSystemUsersPage :76 - select status[[ChromeDriver: chrome on WINDOWS (99bd864f4a42bf231b8b7e8889e4c677)] -> xpath: //select[@id='searchSystemUser_status']]
+2021-12-12 21:12:868 INFO  ViewSystemUsersPage :81 - click on search button [[ChromeDriver: chrome on WINDOWS (99bd864f4a42bf231b8b7e8889e4c677)] -> xpath: //input[@id='searchBtn']]
+2021-12-12 21:12:101 INFO  ViewSystemUsersPage :86 - click on checkbox[[ChromeDriver: chrome on WINDOWS (99bd864f4a42bf231b8b7e8889e4c677)] -> xpath: //input[@id='ohrmList_chkSelectAll']]
+2021-12-12 21:12:273 INFO  ViewSystemUsersPage :91 - click on delete button [[ChromeDriver: chrome on WINDOWS (99bd864f4a42bf231b8b7e8889e4c677)] -> xpath: //input[@id='btnDelete']]
+2021-12-12 21:12:538 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 21:12:522 INFO  AddUserPage :40 - add admin[[ChromeDriver: chrome on WINDOWS (17e01d309c6328beb5148a54030d4e7e)] -> id: menu_admin_viewAdminModule]
+2021-12-12 21:12:776 INFO  ViewSystemUsersPage :61 - send username [[ChromeDriver: chrome on WINDOWS (17e01d309c6328beb5148a54030d4e7e)] -> xpath: //input[@id='searchSystemUser_userName']]
+2021-12-12 21:12:43 INFO  ViewSystemUsersPage :70 - select user roll[[ChromeDriver: chrome on WINDOWS (17e01d309c6328beb5148a54030d4e7e)] -> xpath: //select[@id='searchSystemUser_userType']]
+2021-12-12 21:12:321 INFO  ViewSystemUsersPage :65 - send employee name [[ChromeDriver: chrome on WINDOWS (17e01d309c6328beb5148a54030d4e7e)] -> id: searchSystemUser_employeeName_empName]
+2021-12-12 21:12:585 INFO  ViewSystemUsersPage :76 - select status[[ChromeDriver: chrome on WINDOWS (17e01d309c6328beb5148a54030d4e7e)] -> xpath: //select[@id='searchSystemUser_status']]
+2021-12-12 21:12:325 INFO  ViewSystemUsersPage :81 - click on search button [[ChromeDriver: chrome on WINDOWS (17e01d309c6328beb5148a54030d4e7e)] -> xpath: //input[@id='searchBtn']]
+2021-12-12 21:12:393 INFO  ViewSystemUsersPage :112 - No user record found Proxy element for: DefaultElementLocator 'By.xpath: //td[contains(text(),'No Records Found')]'
+2021-12-12 21:12:274 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 21:12:750 INFO  AddUserPage :40 - add admin[[ChromeDriver: chrome on WINDOWS (0b83e50682746caff0f7f99451e1ff58)] -> id: menu_admin_viewAdminModule]
+2021-12-12 21:12:636 INFO  AddUserPage :45 - click on Add Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnAdd']'
+2021-12-12 21:12:687 INFO  ViewSystemUsersPage :55 - verify Successfully Saved [[ChromeDriver: chrome on WINDOWS (0b83e50682746caff0f7f99451e1ff58)] -> id: successBodyEdit]
+2021-12-12 21:12:207 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 21:12:400 INFO  AddUserPage :40 - add admin[[ChromeDriver: chrome on WINDOWS (5fe4f170c20c2451abcf430e6fc1b7da)] -> id: menu_admin_viewAdminModule]
+2021-12-12 21:12:667 INFO  ViewSystemUsersPage :61 - send username [[ChromeDriver: chrome on WINDOWS (5fe4f170c20c2451abcf430e6fc1b7da)] -> xpath: //input[@id='searchSystemUser_userName']]
+2021-12-12 21:12:959 INFO  ViewSystemUsersPage :70 - select user roll[[ChromeDriver: chrome on WINDOWS (5fe4f170c20c2451abcf430e6fc1b7da)] -> xpath: //select[@id='searchSystemUser_userType']]
+2021-12-12 21:12:265 INFO  ViewSystemUsersPage :65 - send employee name [[ChromeDriver: chrome on WINDOWS (5fe4f170c20c2451abcf430e6fc1b7da)] -> id: searchSystemUser_employeeName_empName]
+2021-12-12 21:12:554 INFO  ViewSystemUsersPage :76 - select status[[ChromeDriver: chrome on WINDOWS (5fe4f170c20c2451abcf430e6fc1b7da)] -> xpath: //select[@id='searchSystemUser_status']]
+2021-12-12 21:12:354 INFO  ViewSystemUsersPage :81 - click on search button [[ChromeDriver: chrome on WINDOWS (5fe4f170c20c2451abcf430e6fc1b7da)] -> xpath: //input[@id='searchBtn']]
+2021-12-12 21:12:966 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 21:12:872 INFO  AddUserPage :40 - add admin[[ChromeDriver: chrome on WINDOWS (1b7b70aae0434d37a42c672957166fed)] -> id: menu_admin_viewAdminModule]
+2021-12-12 21:12:133 INFO  ViewSystemUsersPage :61 - send username [[ChromeDriver: chrome on WINDOWS (1b7b70aae0434d37a42c672957166fed)] -> xpath: //input[@id='searchSystemUser_userName']]
+2021-12-12 21:12:396 INFO  ViewSystemUsersPage :70 - select user roll[[ChromeDriver: chrome on WINDOWS (1b7b70aae0434d37a42c672957166fed)] -> xpath: //select[@id='searchSystemUser_userType']]
+2021-12-12 21:12:669 INFO  ViewSystemUsersPage :65 - send employee name [[ChromeDriver: chrome on WINDOWS (1b7b70aae0434d37a42c672957166fed)] -> id: searchSystemUser_employeeName_empName]
+2021-12-12 21:12:952 INFO  ViewSystemUsersPage :76 - select status[[ChromeDriver: chrome on WINDOWS (1b7b70aae0434d37a42c672957166fed)] -> xpath: //select[@id='searchSystemUser_status']]
+2021-12-12 21:12:720 INFO  ViewSystemUsersPage :81 - click on search button [[ChromeDriver: chrome on WINDOWS (1b7b70aae0434d37a42c672957166fed)] -> xpath: //input[@id='searchBtn']]
+2021-12-12 21:12:965 INFO  ViewSystemUsersPage :86 - click on checkbox[[ChromeDriver: chrome on WINDOWS (1b7b70aae0434d37a42c672957166fed)] -> xpath: //input[@id='ohrmList_chkSelectAll']]
+2021-12-12 21:12:117 INFO  ViewSystemUsersPage :91 - click on delete button [[ChromeDriver: chrome on WINDOWS (1b7b70aae0434d37a42c672957166fed)] -> xpath: //input[@id='btnDelete']]
+2021-12-12 21:12:704 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-12 21:12:139 INFO  AddUserPage :40 - add admin[[ChromeDriver: chrome on WINDOWS (751af5a211805144a76f5259393cc756)] -> id: menu_admin_viewAdminModule]
+2021-12-12 21:12:394 INFO  ViewSystemUsersPage :61 - send username [[ChromeDriver: chrome on WINDOWS (751af5a211805144a76f5259393cc756)] -> xpath: //input[@id='searchSystemUser_userName']]
+2021-12-12 21:12:631 INFO  ViewSystemUsersPage :70 - select user roll[[ChromeDriver: chrome on WINDOWS (751af5a211805144a76f5259393cc756)] -> xpath: //select[@id='searchSystemUser_userType']]
+2021-12-12 21:12:924 INFO  ViewSystemUsersPage :65 - send employee name [[ChromeDriver: chrome on WINDOWS (751af5a211805144a76f5259393cc756)] -> id: searchSystemUser_employeeName_empName]
+2021-12-12 21:12:223 INFO  ViewSystemUsersPage :76 - select status[[ChromeDriver: chrome on WINDOWS (751af5a211805144a76f5259393cc756)] -> xpath: //select[@id='searchSystemUser_status']]
+2021-12-12 21:12:131 INFO  ViewSystemUsersPage :81 - click on search button [[ChromeDriver: chrome on WINDOWS (751af5a211805144a76f5259393cc756)] -> xpath: //input[@id='searchBtn']]
+2021-12-12 21:12:184 INFO  ViewSystemUsersPage :112 - No user record found Proxy element for: DefaultElementLocator 'By.xpath: //td[contains(text(),'No Records Found')]'
+2021-12-13 12:12:27 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 12:12:272 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 12:12:790 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 12:12:182 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 12:12:764 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 12:12:555 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 12:12:506 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 12:12:584 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 12:12:274 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 12:12:717 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 12:12:852 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 13:12:165 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 13:12:440 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 13:12:292 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 13:12:76 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 13:12:315 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 13:12:975 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 14:12:708 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 14:12:796 INFO  LoginPage :94 - LOGIN Panel [[ChromeDriver: chrome on WINDOWS (67deca3ac925ffd3fb0c2c693cb35c19)] -> id: logInPanelHeading]
+2021-12-13 14:12:570 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 14:12:382 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 14:12:200 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 14:12:873 INFO  LoginPage :94 - LOGIN Panel [[ChromeDriver: chrome on WINDOWS (e4e7be557c2e651a4e39e514ede9f6e7)] -> id: logInPanelHeading]
+2021-12-13 14:12:744 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 14:12:76 INFO  AddUserPage :40 - add admin[[ChromeDriver: chrome on WINDOWS (db6ddc34d915be8c077e58a65608476e)] -> id: menu_admin_viewAdminModule]
+2021-12-13 14:12:716 INFO  AddUserPage :45 - click on Add Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnAdd']'
+2021-12-13 14:12:756 INFO  ViewSystemUsersPage :55 - verify Successfully Saved [[ChromeDriver: chrome on WINDOWS (db6ddc34d915be8c077e58a65608476e)] -> id: successBodyEdit]
+2021-12-13 14:12:145 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 14:12:503 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 14:12:170 INFO  AddUserPage :40 - add admin[[ChromeDriver: chrome on WINDOWS (adc86b67a3adbf6264df7fa59765ac96)] -> id: menu_admin_viewAdminModule]
+2021-12-13 14:12:72 INFO  AddUserPage :45 - click on Add Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnAdd']'
+2021-12-13 14:12:100 INFO  ViewSystemUsersPage :55 - verify Successfully Saved [[ChromeDriver: chrome on WINDOWS (adc86b67a3adbf6264df7fa59765ac96)] -> id: successBodyEdit]
+2021-12-13 14:12:344 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 14:12:301 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 14:12:825 INFO  AddUserPage :40 - add admin[[ChromeDriver: chrome on WINDOWS (e153e6c5e8812acf1de452bbe6e8963f)] -> id: menu_admin_viewAdminModule]
+2021-12-13 14:12:553 INFO  AddUserPage :45 - click on Add Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnAdd']'
+2021-12-13 14:12:597 INFO  ViewSystemUsersPage :55 - verify Successfully Saved [[ChromeDriver: chrome on WINDOWS (e153e6c5e8812acf1de452bbe6e8963f)] -> id: menu_admin_viewSystemUsers]
+2021-12-13 14:12:207 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 14:12:217 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 14:12:358 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 14:12:554 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-13 14:12:48 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 12:12:91 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 12:12:844 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 12:12:271 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 12:12:887 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 12:12:116 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 12:12:707 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 13:12:457 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 13:12:205 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 21:12:480 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 21:12:355 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 21:12:52 INFO  LoginPage :94 - LOGIN Panel [[ChromeDriver: chrome on WINDOWS (86f79e2169b337fc0f03c15d9854283f)] -> id: logInPanelHeading]
+2021-12-15 21:12:725 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 21:12:294 INFO  AddUserPage :40 - add admin[[ChromeDriver: chrome on WINDOWS (c68c1f37f90d07f068425bd5fca6583b)] -> id: menu_admin_viewAdminModule]
+2021-12-15 21:12:784 INFO  AddUserPage :43 - click on Add Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnAdd']'
+2021-12-15 21:12:798 INFO  ViewSystemUsersPage :55 - verify Successfully Saved [[ChromeDriver: chrome on WINDOWS (c68c1f37f90d07f068425bd5fca6583b)] -> id: menu_admin_viewSystemUsers]
+2021-12-15 21:12:655 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 21:12:434 INFO  AddUserPage :40 - add admin[[ChromeDriver: chrome on WINDOWS (7e36fe9448ab50e1533a966d826d26ca)] -> id: menu_admin_viewAdminModule]
+2021-12-15 21:12:501 INFO  ViewSystemUsersPage :61 - send username [[ChromeDriver: chrome on WINDOWS (7e36fe9448ab50e1533a966d826d26ca)] -> xpath: //input[@id='searchSystemUser_userName']]
+2021-12-15 21:12:587 INFO  ViewSystemUsersPage :70 - select user roll[[ChromeDriver: chrome on WINDOWS (7e36fe9448ab50e1533a966d826d26ca)] -> xpath: //select[@id='searchSystemUser_userType']]
+2021-12-15 21:12:639 INFO  ViewSystemUsersPage :65 - send employee name [[ChromeDriver: chrome on WINDOWS (7e36fe9448ab50e1533a966d826d26ca)] -> id: searchSystemUser_employeeName_empName]
+2021-12-15 21:12:741 INFO  ViewSystemUsersPage :76 - select status[[ChromeDriver: chrome on WINDOWS (7e36fe9448ab50e1533a966d826d26ca)] -> xpath: //select[@id='searchSystemUser_status']]
+2021-12-15 21:12:189 INFO  ViewSystemUsersPage :81 - click on search button [[ChromeDriver: chrome on WINDOWS (7e36fe9448ab50e1533a966d826d26ca)] -> xpath: //input[@id='searchBtn']]
+2021-12-15 21:12:852 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 21:12:222 INFO  AddUserPage :40 - add admin[[ChromeDriver: chrome on WINDOWS (c5acfecec0fc863be537012594897037)] -> id: menu_admin_viewAdminModule]
+2021-12-15 21:12:292 INFO  ViewSystemUsersPage :61 - send username [[ChromeDriver: chrome on WINDOWS (c5acfecec0fc863be537012594897037)] -> xpath: //input[@id='searchSystemUser_userName']]
+2021-12-15 21:12:363 INFO  ViewSystemUsersPage :70 - select user roll[[ChromeDriver: chrome on WINDOWS (c5acfecec0fc863be537012594897037)] -> xpath: //select[@id='searchSystemUser_userType']]
+2021-12-15 21:12:417 INFO  ViewSystemUsersPage :65 - send employee name [[ChromeDriver: chrome on WINDOWS (c5acfecec0fc863be537012594897037)] -> id: searchSystemUser_employeeName_empName]
+2021-12-15 21:12:516 INFO  ViewSystemUsersPage :76 - select status[[ChromeDriver: chrome on WINDOWS (c5acfecec0fc863be537012594897037)] -> xpath: //select[@id='searchSystemUser_status']]
+2021-12-15 21:12:965 INFO  ViewSystemUsersPage :81 - click on search button [[ChromeDriver: chrome on WINDOWS (c5acfecec0fc863be537012594897037)] -> xpath: //input[@id='searchBtn']]
+2021-12-15 21:12:18 INFO  ViewSystemUsersPage :86 - click on checkbox[[ChromeDriver: chrome on WINDOWS (c5acfecec0fc863be537012594897037)] -> xpath: //input[@id='ohrmList_chkSelectAll']]
+2021-12-15 21:12:69 INFO  ViewSystemUsersPage :91 - click on delete button [[ChromeDriver: chrome on WINDOWS (c5acfecec0fc863be537012594897037)] -> xpath: //input[@id='btnDelete']]
+2021-12-15 21:12:936 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 21:12:195 INFO  AddUserPage :40 - add admin[[ChromeDriver: chrome on WINDOWS (3898cb30972676381607c3bb7ecd4b41)] -> id: menu_admin_viewAdminModule]
+2021-12-15 21:12:262 INFO  ViewSystemUsersPage :61 - send username [[ChromeDriver: chrome on WINDOWS (3898cb30972676381607c3bb7ecd4b41)] -> xpath: //input[@id='searchSystemUser_userName']]
+2021-12-15 21:12:335 INFO  ViewSystemUsersPage :70 - select user roll[[ChromeDriver: chrome on WINDOWS (3898cb30972676381607c3bb7ecd4b41)] -> xpath: //select[@id='searchSystemUser_userType']]
+2021-12-15 21:12:389 INFO  ViewSystemUsersPage :65 - send employee name [[ChromeDriver: chrome on WINDOWS (3898cb30972676381607c3bb7ecd4b41)] -> id: searchSystemUser_employeeName_empName]
+2021-12-15 21:12:488 INFO  ViewSystemUsersPage :76 - select status[[ChromeDriver: chrome on WINDOWS (3898cb30972676381607c3bb7ecd4b41)] -> xpath: //select[@id='searchSystemUser_status']]
+2021-12-15 21:12:898 INFO  ViewSystemUsersPage :81 - click on search button [[ChromeDriver: chrome on WINDOWS (3898cb30972676381607c3bb7ecd4b41)] -> xpath: //input[@id='searchBtn']]
+2021-12-15 21:12:941 INFO  ViewSystemUsersPage :112 - No user record found Proxy element for: DefaultElementLocator 'By.xpath: //td[contains(text(),'No Records Found')]'
